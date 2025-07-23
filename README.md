@@ -8,8 +8,7 @@
 ## 🚀 What You'll Find Here
 
 - 🌐 **Web Development**: Projects using **HTML**, **CSS**, and **JavaScript**
-- 💻 **Software Engineering**: Code in **C** and **Java**, solving real-world problems
-- 🔌 **Digital Systems**: Verilog projects for **hardware design** and **FPGA-based systems**
+- 💻 **Software Engineering**: Code in **C** and **Java**
 - 🧠 **Organization**: Systems to **streamline tasks** and improve efficiency
 
 
