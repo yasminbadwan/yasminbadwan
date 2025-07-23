@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**yasminbadwan/yasminbadwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Yasmeen
 
-Here are some ideas to get you started:
+🎓 I'm a Computer Engineering student at Birzeit University
+    I'm passionate about:
+- 💻 Web Development (Frontend & Backend)
+- 📱 Mobile App Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills:
+- HTML, CSS, JavaScript
+- C, Java
+
+
+## 📫 How to reach me:
+- 📧 Email: yasmeenbadwan9640@gmail.com
+- 💼 LinkedIn:(https://www.linkedin.com/in/yasmin-badwan-0536b2376)
+
+
+
+
