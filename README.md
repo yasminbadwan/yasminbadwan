@@ -1,4 +1,7 @@
-<h1 align="center" style="color:#ff69b4;">Hi 👋, I'm <span style="color:#6a5acd;">Yasmeen</span></h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dda0dd,100:ffaaff&height=120&section=header"/>
+</p><h1 align="center" style="color:#ff69b4;">Hi 👋, I'm <span style="color:#6a5acd;">Yasmeen</span></h1>
 
 <p align="center">
   🎓 A passionate <strong style="color:#20b2aa;">Computer Engineering</strong> student at <strong style="color:#ffa500;">Birzeit University</strong><br>
