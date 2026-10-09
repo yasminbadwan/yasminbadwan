@@ -49,6 +49,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+  <img src="https://img.shields.io/badge/Verilog-9370DB?style=for-the-badge"/>
 </p>
 
 <h3 align="center">🌐 Web Development</h3>
@@ -57,10 +58,33 @@
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-<h3 align="center">⚙️ Tools & Platforms</h3>
+<h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SQL-BA68C8?style=for-the-badge"/>
+</p>
+
+<h3 align="center">⚙️ Development Tools & IDEs</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,git,github" />
+  <img src="https://img.shields.io/badge/Code::Blocks-DDA0DD?style=for-the-badge"/>
+</p>
+
+<h3 align="center">🔬 Engineering & Simulation Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MATLAB-9370DB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Electric_VLSI-BA68C8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LTspice-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-DDA0DD?style=for-the-badge"/>
+</p>
+
+<h3 align="center">🐧 Operating Systems</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
@@ -72,15 +96,6 @@
 - ⚡ **Hardware & Digital Design:** Projects related to computer architecture, processors, and digital systems.
 - 🌐 **Web Development:** Projects using HTML and CSS.
 - 🎓 **University Projects:** Academic projects covering different areas of Computer Engineering.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasminYasmin&show_icons=true&theme=dracula&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminYasmin&layout=compact&theme=dracula&hide_border=true" height="165"/>
-</p>
 
 ---
 
